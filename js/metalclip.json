@@ -33,7 +33,7 @@
   },
   {
     "title": ".verify.protect",
-    "body": "Patient identity (2FA by CID card & DOB, treatment procedure and correct tooth/site verified prior to procedure."
+    "body": "Patient identity (2FA by CID card & DOB), treatment procedure and correct tooth/site verified prior to procedure."
   },
   {
     "title": ".risk",
