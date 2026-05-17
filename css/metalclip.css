@@ -45,7 +45,7 @@ textarea {
   box-sizing: border-box;
   /* Includes padding in the total width */
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 0.6rem;
   outline: none;
   /* Removes the default blue focus ring */
   transition: border-color 0.2s;
