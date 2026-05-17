@@ -1,6 +1,6 @@
 async function getData() {
   try {
-    const response = await fetch('https://raw.githubusercontent.com/pxrkphumdev/barenote/refs/heads/main/js/metalclip.json');
+    const response = await fetch('https://raw.githubusercontent.com/pxrkphumdev/metalclip/refs/heads/main/js/metalclip.json');
 
     // Check if the request was successful (status 200-299)
     if (!response.ok) {
