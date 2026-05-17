@@ -5,7 +5,7 @@
   },
   {
     "title": ".scaling.protect",
-    "body": "CC: มาขูดหินปูน\r\nMedical history reviewed, No underlying disease, No history of drug allergy, No current medication\r\nI/O: Generalized supra/subgingival calculus\r\n,  Gingival inflammation, Fair oral hygiene\r\nDx: FM Gingivitis\r\nProcedure, benefits, risks and possible postoperative sensitivity/bleeding explained. Oral hygiene status and periodontal condition discussed. Informed consent obtained.\r\nVerified patient identity (2FA by CID Card & DOB) before procedure.\r\nTx: \r\n- Piezoelectric scaling\r\n- Polishing with prophylaxis\r\n- Oral hygiene instruction given\r\nAseptic technique maintained throughout procedure.\r\nPatient tolerated procedure well.\r\nComplication:____\r\nPostoperative instruction given.\r\nPlan: Ext --> SC --> Filling --> CF"
+    "body": "CC: มาขูดหินปูน\r\nMedical history reviewed, No underlying disease, No history of drug allergy, No current medication\r\nI/O: Generalized supra/subgingival calculus\r\n, Gingival inflammation, Fair oral hygiene\r\nDx: FM Gingivitis\r\nProcedure, benefits, risks and possible postoperative sensitivity/bleeding explained. Oral hygiene status and periodontal condition discussed. Informed consent obtained.\r\nVerified patient identity (2FA by CID Card & DOB) before procedure.\r\nTx: \r\n- Piezoelectric scaling\r\n- Polishing with prophylaxis\r\n- Oral hygiene instruction given\r\nAseptic technique maintained throughout procedure.\r\nPatient tolerated procedure well.\r\nComplication:____\r\nPostoperative instruction given.\r\nPlan: Ext --> SC --> Filling --> CF"
   },
   {
     "title": ".extraction.protect",
@@ -25,7 +25,7 @@
   },
   {
     "title": ".pedo.protect",
-    "body": "Child accompanied by parent/guardian.\r\nMedical history reviewed.\r\nNo underlying disease\r\nNo history of drug allergy\r\nBehavior: + ร้องแต่ไม่ดิ้น\r\nI/O:  ________\r\nDx: ________\r\nDiagnosis, treatment options, benefits, risks, prognosis and behavior management explained to parent/guardian. Possible complications explained. Informed consent obtained from parent/guardian.\r\nVerified patient identity and correct tooth before procedure.\r\nTx: ________\r\nBehavior guidance technique:\r\n- Tell-show-do\r\n- Passive physical restain\r\n- Voice control/non-pharmacological behavior guidance\r\nPatient tolerated procedure fairly/well.\r\nNo complication\r\nPost-op/OHI/diet instruction explained to parent/guardian.\r\nPlan: Ext --> SC --> Filling --> CF"
+    "body": "Child accompanied by parent/guardian.\r\nMedical history reviewed.\r\nNo underlying disease\r\nNo history of drug allergy\r\nBehavior: + ร้องแต่ไม่ดิ้น\r\nI/O: ________\r\nDx: ________\r\nDiagnosis, treatment options, benefits, risks, prognosis and behavior management explained to parent/guardian. Possible complications explained. Informed consent obtained from parent/guardian.\r\nVerified patient identity and correct tooth before procedure.\r\nTx: ________\r\nBehavior guidance technique:\r\n- Tell-show-do\r\n- Passive physical restain\r\n- Voice control/non-pharmacological behavior guidance\r\nPatient tolerated procedure fairly/well.\r\nNo complication\r\nPost-op/OHI/diet instruction explained to parent/guardian.\r\nPlan: Ext --> SC --> Filling --> CF"
   },
   {
     "title": ".consent.protect",
