@@ -7,6 +7,10 @@
   font-family: 'Courier New', monospace;
 }
 
+h1 {
+  font-size: 1em;
+}
+
 body {
   margin: 25px;
 }
@@ -19,7 +23,7 @@ p {
   display: grid;
   padding: 0;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-gap: 1em;
+  grid-gap: 2em;
 }
 
 .grid {
@@ -29,7 +33,7 @@ p {
 .grid>div {
   background: lightgray;
   padding: 15px;
-  min-height: 200px;
+  min-height: 150px;
   width: 100%;
   border-radius: 15px;
 }
