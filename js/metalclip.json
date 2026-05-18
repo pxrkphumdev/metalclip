@@ -1,5 +1,21 @@
 [
   {
+    "title": ".extraction",
+    "body": "denies U/D, NKDA\r\nCC: มาถอนฟัน ไม่ปวด\r\nI/O: ____, negative to percussion, no mobility, no gingival swelling/tenderness\r\nRadiographic findings: ____\r\nDx: Pulp necrosis\r\nTx: \r\n Extraction under LA 4% Articaine + 1:100,000 epinephrine 1 cartidge, gauze bite, POIG (bleeding control, diet instruction, smoking restriction and indication for emergency return.)\r\nHM: ____Plan: Ext --> SC --> Filling --> CF"
+  },
+  {
+    "title": ".filling",
+    "body": "denies U/D, NKDA\r\nCC: มาอุดฟัน\r\nI/O: Tooth ____, negative to percussion, negative to air-blowing test\r\nDx: Dental caries\r\nTx: RCC,CPC,Etching, bonding & restored with Composite (A3.5B : Z350XT), occlusal & proximal check\r\nPostoperative instruction given including possible postoperative sensitivity/pain and indication for return visit.\r\nPlan: Ext --> SC --> Filling --> CF"
+  },
+  {
+    "title": ".scaling",
+    "body": "denies U/D, NKDA\r\nCC: มาขูดหินปูน\r\nI/O: Generalized supra/subgingival calculus, Gingival inflammation, Fair oral hygiene\r\nDx: FM GingivitisTx: Piezoelectric scaling & Polishing with prophylaxis, OHI\r\nPlan: Ext --> SC --> Filling --> CF"
+  },
+  {
+    "title": ".extraction.protect",
+    "body": "CC: มาถอนฟัน ไม่ปวด\r\nMedical history reviewed, No underlying disease, No history of drug allergy, No current medication\r\nI/O: Tooth ____, negative to percussion, no mobility, no gingival swelling/tenderness\r\nRadiographic findings: ____\r\nDx: Pulp necrosis\r\nDiagnosis, treatment indication, treatment options, benefits, risks and possible complications explained including pain, swelling, bleeding, root fracture, dry socket, infection, oroantral communication, nerve injury and need for surgical extraction if indicated. Alternative treatment explained. Patient understood and informed consent obtained.\r\nVerified patient identity (2FA by CID Card & DOB) and correct tooth/site before extraction.\r\nTx: \r\n- Aseptic technique maintained\r\n- LA 4% Articaine + 1:100,000 epinephrine 1 cartidge\r\n- Extraction tooth ____ completed using elevator/forceps\r\n- Hemostasis achieved by biting pressure gauze pack/suture\r\nPatient tolerated procedure well.\r\nComplication: ____\r\nHM: ____\r\nPostoperative instruction given including bleeding control, diet instruction, smoking restriction and indication for emergency return.\r\nPlan: Ext --> SC --> Filling --> CF"
+  },
+  {
     "title": ".filling.protect",
     "body": "CC: มาอุดฟัน\r\nMedical history reviewed, No underlying disease, No history of drug allergy, No current medication\r\nI/O: Tooth ____, negative to percussion, negative to air-blowing test\r\nDx: Dental caries\r\nDiagnosis, treatment options, benefits, risks, possible complications, prognosis and alternative treatment explained to patient. Possible postoperative pain/sensitivity and need for further treatment including RCT explained. Patient understood and informed consent obtained.\r\nVerified patient identity (2FA by CID Card & DOB) and correct tooth prior to procedure.\r\nTx: \r\n- Aseptic technique maintained, Isolation by gauze roll\r\n- Caries removal completed, Cavity preparation completed\r\n- Etching, bonding & restored with Composite (A3.5B : Z350XT)\r\n- Occlusion checked and adjusted, Proximal contact point checked\r\nPatient tolerated procedure well.\r\nNo complication\r\nPostoperative instruction given including possible postoperative sensitivity/pain and indication for return visit.\r\nPlan: Ext --> SC --> Filling --> CF"
   },
@@ -8,8 +24,8 @@
     "body": "CC: มาขูดหินปูน\r\nMedical history reviewed, No underlying disease, No history of drug allergy, No current medication\r\nI/O: Generalized supra/subgingival calculus\r\n, Gingival inflammation, Fair oral hygiene\r\nDx: FM Gingivitis\r\nProcedure, benefits, risks and possible postoperative sensitivity/bleeding explained. Oral hygiene status and periodontal condition discussed. Informed consent obtained.\r\nVerified patient identity (2FA by CID Card & DOB) before procedure.\r\nTx: \r\n- Piezoelectric scaling\r\n- Polishing with prophylaxis\r\n- Oral hygiene instruction given\r\nAseptic technique maintained throughout procedure.\r\nPatient tolerated procedure well.\r\nNo complication\r\nPostoperative instruction given.\r\nPlan: Ext --> SC --> Filling --> CF"
   },
   {
-    "title": ".extraction.protect",
-    "body": "CC: มาถอนฟัน ไม่ปวด\r\nMedical history reviewed, No underlying disease, No history of drug allergy, No current medication\r\nI/O: Tooth ____, negative to percussion, no mobility, no gingival swelling/tenderness\r\nRadiographic findings: ____\r\nDx: Pulp necrosis\r\nDiagnosis, treatment indication, treatment options, benefits, risks and possible complications explained including pain, swelling, bleeding, root fracture, dry socket, infection, oroantral communication, nerve injury and need for surgical extraction if indicated. Alternative treatment explained. Patient understood and informed consent obtained.\r\nVerified patient identity (2FA by CID Card & DOB) and correct tooth/site before extraction.\r\nTx: \r\n- Aseptic technique maintained\r\n- LA 4% Articaine + 1:100,000 epinephrine 1 cartidge\r\n- Extraction tooth ____ completed using elevator/forceps\r\n- Hemostasis achieved by biting pressure gauze pack/suture\r\nPatient tolerated procedure well.\r\nComplication: ____\r\nHM: ____\r\nPostoperative instruction given including bleeding control, diet instruction, smoking restriction and indication for emergency return.\r\nPlan: Ext --> SC --> Filling --> CF"
+    "title": ".extraction.consideraton.protect",
+    "body": "Benefits of tooth removal are Relieves pain and infection by removing the damaged tooth. Temporary pain, swelling, bleeding, and difficulty chewing may occur. Risks of treatment are Bleeding, infection, dry socket, root fracture, or temporary numbness may occur, but these are uncommon."
   },
   {
     "title": ".filling.consideraton.protect",
@@ -18,10 +34,6 @@
   {
     "title": ".scaling.consideraton.protect",
     "body": "Scaling helps remove plaque and tartar, reducing gum inflammation, bleeding, and bad breath. After treatment, mild gum soreness or tooth sensitivity may occur temporarily. The procedure is generally safe and helps improve oral health."
-  },
-  {
-    "title": ".extraction.consideraton.protect",
-    "body": "Benefits of tooth removal are Relieves pain and infection by removing the damaged tooth. Temporary pain, swelling, bleeding, and difficulty chewing may occur. Risks of treatment are Bleeding, infection, dry socket, root fracture, or temporary numbness may occur, but these are uncommon."
   },
   {
     "title": ".pedo.protect",
